@@ -2,7 +2,7 @@ body {
     background-color: darkgray;
 }
   .jumbotron {
-    background-image: src="img/bacteria.png";
+    background-image: url("bacteria.png");
     background-size: 100% 100%;
     text-align: center;
     color: #ff6fff;
